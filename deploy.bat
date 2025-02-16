@@ -1,0 +1,1 @@
+copy station_sensor\* \\homeassistant.local\config\custom_components\fuel_station_sensor\

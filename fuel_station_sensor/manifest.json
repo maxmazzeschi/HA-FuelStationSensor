@@ -1,0 +1,9 @@
+{
+    "domain": "fuel_station_sensor",
+    "name": "FuelStationSensor",
+    "documentation": "https://github.com/maxmazzeschi/HA-FuelStationSensor",
+    "dependencies": [],
+    "codeowners": ["@maxmazzeschi"],
+    "version": "1.0"
+  }
+  
